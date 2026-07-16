@@ -1,0 +1,8 @@
+{
+  "name": "KKR Interiors",
+  "description": "Premium luxury interior design studio dedicated to creating beautiful, functional and timeless interiors in Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
